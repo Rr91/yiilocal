@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "LatoBold";
+    src: url("../fonts/LatoBold/LatoBold.eot");
+    src: url("../fonts/LatoBold/LatoBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LatoBold/LatoBold.woff") format("woff"),
+    url("../fonts/LatoBold/LatoBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerThin";
+    src: url("../fonts/MullerThin/MullerThinDEMO.eot");
+    src: url("../fonts/MullerThin/MullerThinDEMO.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MullerThin/MullerThinDEMO.woff") format("woff"),
+    url("../fonts/MullerThin/MullerThinDEMO.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerExtraBold";
+    src: url("../fonts/MullerExtraBold/MullerExtraBoldDEMO.eot");
+    src: url("../fonts/MullerExtraBold/MullerExtraBoldDEMO.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MullerExtraBold/MullerExtraBoldDEMO.woff") format("woff"),
+    url("../fonts/MullerExtraBold/MullerExtraBoldDEMO.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "MullerThinLightItalic";
+    src: url("../fonts/MullerThinLightItalic/10292.eot");
+    src: url("../fonts/MullerExtraBold/10292.eot?#iefix")format("embedded-opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "LatoLight";
+    src: url("../fonts/LatoLight/LatoLight.eot");
+    src: url("../fonts/LatoLight/LatoLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LatoLight/LatoLight.woff") format("woff"),
+    url("../fonts/LatoLight/LatoLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
